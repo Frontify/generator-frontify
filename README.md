@@ -1,6 +1,8 @@
 # Frontify Boilerplate
 
-A generator for [Yeoman](http://yeoman.io).
+Framework for your simple, maintainable & super-fast front-end application.
+
+Notice: This is a generator for [Yeoman](http://yeoman.io).
 
 [![Build Status](https://travis-ci.org/Frontify/generator-frontify.png)](https://travis-ci.org/Frontify/generator-frontify)
 
@@ -22,9 +24,7 @@ $ yo frontify:module Example
 
 # What is it?
 
-> Framework for your simple, maintainable & super-fast front-end application
-
-[![Build Status](https://travis-ci.org/Frontify/frontify-boilerplate.png?branch=master)](https://travis-ci.org/Frontify/frontify-boilerplate)
+Framework for your simple, maintainable & super-fast front-end application
 
 ## Goals
 

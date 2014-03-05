@@ -1,6 +1,6 @@
 {
   "name": "generator-frontify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Modular front-end boilerplate including declarative views",
   "license": "MIT",
   "main": "app/index.js",

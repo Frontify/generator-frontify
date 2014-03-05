@@ -1,6 +1,6 @@
 {
   "name": "generator-frontify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modular front-end (Terrific.js) with declarative views and layouts",
   "license": "MIT",
   "main": "app/index.js",

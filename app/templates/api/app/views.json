@@ -1,0 +1,30 @@
+{
+    "layouts": [
+        { 
+            "id": "default",
+            "modules": {
+                "header": [ "logo", "navigation" ]
+            }
+        }
+    ],
+    "views": [
+        { 
+            "id": 1,
+            "route": "/",
+            "title": "Home",
+            "layout": "default",
+            "modules": {
+                "content": [  ]
+            }
+        },
+        { 
+            "id": 2,
+            "route": "/user",
+            "title": "User",
+            "layout": "default",
+            "modules": {
+                "content": [  ]
+            }
+        }
+    ]
+}

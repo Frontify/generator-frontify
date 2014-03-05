@@ -1,4 +1,4 @@
-# generator-frontify [![Build Status](https://secure.travis-ci.org/rogerdudler/generator-frontify.png?branch=master)](https://travis-ci.org/rogerdudler/generator-frontify)
+# generator-frontify [![Build Status](https://secure.travis-ci.org/Frontify/generator-frontify.png?branch=master)](https://travis-ci.org/Frontify/generator-frontify)
 
 > [Yeoman](http://yeoman.io) generator
 
